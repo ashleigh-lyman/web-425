@@ -1,12 +1,13 @@
+/*
+ * Title: my-details.component.ts
+ * Author: Ashleigh Lyman
+ * Date: 22 July 2020
+ * Description: My details component
+ */
 
 
 import { Component, OnInit } from '@angular/core';
-/**
- * Title: my-details.component.ts
- * Author: Ashleigh Lyman
- * Date: 16 July 2020
- * Description: My details component
- */
+
 
 export default class Person {
   fullName: string;
